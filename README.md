@@ -4,6 +4,12 @@ A lightweight WordPress plugin that lets you embed a microphone-enabled AI voice
 
 Originally developed for a live production website to make an externally hosted AI assistant reusable across pages, posts, and page-builder layouts.
 
+## Production Example
+
+AI Widget Shortcode running on the Food Forest Design Minnesota production website.
+
+![AI Widget Shortcode Production Demo](screenshots/ai-widget-shortcode-production-demo.png)
+
 ## Features
 
 - Custom WordPress shortcode
