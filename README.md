@@ -1,2 +1,2 @@
-# wordpress-ghl-popup-shortcode
-Custom WordPress plugin that allows GoHighLevel popups to be embedded anywhere in WordPress using a shortcode.
+# ai-widget-shortcode
+Lightweight WordPress plugin that embeds an AI voice assistant anywhere in WordPress using a reusable shortcode.
